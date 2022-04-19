@@ -1,10 +1,14 @@
 # Edvara-Rides
 
-Home Screen ![Simulator Screen Shot - iPhone 12 - 2022-04-19 at 21 56 07](https://user-images.githubusercontent.com/46900994/164051285-1b7f6a96-5b69-4991-a09b-c5e67527a8dd.png)
+Home Screen ![Simulator Screen Shot - iPhone 12 - 2022-04-19 at 21 56 07](https://user-images.githubusercontent.com/46900994/164051826-46b5cb1d-2e06-43bb-9c13-c85968330b0a.png)
 
-Filter pop Screen ![Simulator Screen Shot - iPhone 12 - 2022-04-19 at 21 56 13](https://user-images.githubusercontent.com/46900994/164051400-1a77cebf-1e96-42f7-9053-1f3103e42913.png)
 
-Filter PopUp with Drop Down ![Simulator Screen Shot - iPhone 12 - 2022-04-19 at 21 56 19](https://user-images.githubusercontent.com/46900994/164051494-b4b19b0b-12eb-4a02-b849-e77b717bcef0.png)
+Filter pop Screen ![Simulator Screen Shot - iPhone 12 - 2022-04-19 at 21 56 13](https://user-images.githubusercontent.com/46900994/164051855-8473eb50-f8bf-4e37-a4e0-beda2326dec5.png)
 
-Ride Detail Screen ![Simulator Screen Shot - iPhone 12 - 2022-04-19 at 21 56 25](https://user-images.githubusercontent.com/46900994/164051549-8f19dd13-5920-4f9d-8c23-78525e477a57.png)
+
+Filter PopUp with Drop Down ![Simulator Screen Shot - iPhone 12 - 2022-04-19 at 21 56 19](https://user-images.githubusercontent.com/46900994/164051916-425c3b52-2616-4a61-b2e5-845298efe85c.png)
+
+
+Ride Detail Screen 
+![Simulator Screen Shot - iPhone 12 - 2022-04-19 at 21 56 25](https://user-images.githubusercontent.com/46900994/164051944-f5d10698-755c-4e86-a586-93f53c7ca201.png)
 
